@@ -15,3 +15,5 @@ pytest-asyncio==0.23.5
 pytest-httpx==0.30.0
 aiosqlite==0.20.0
 greenlet==3.0.3
+
+# build dependencies
