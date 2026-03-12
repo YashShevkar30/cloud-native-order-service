@@ -33,3 +33,5 @@ class Settings(BaseSettings):
 def get_settings() -> Settings:
     """Cached settings singleton."""
     return Settings()
+
+# TODO: Add more robust error handling here
