@@ -220,3 +220,6 @@ See [docs/runbook.md](docs/runbook.md) for:
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).
+
+## Architecture Notes
+Additional architecture documentation to be added here.
